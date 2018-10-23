@@ -6,9 +6,33 @@ body {
   margin: 0;
   min-height: 100%;
   font: 16px / 1 sans-serif;
+  text-align: center;
 }
 body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url()
+  background-image: url(http://babiestravellite.com/wp-content/uploads/2015/08/Do-You-Need-Insurance-When-Abroad.jpg);
+}
+h1.subject {
+  font-family: countryside;
+}
+p {
+  font-family: cursive;
+  font-size: 1.5rem;
+}
+ul {
+  text-align: left;
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(231, 71, 7);
+}
+a {
+  text-decoration: none;
+  color: rgb(231, 71, 7);
+}
+h2.ending {
+  font-family: countryside;
+  font-size: 34px;
+}
