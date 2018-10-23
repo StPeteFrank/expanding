@@ -7,3 +7,8 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+body {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url()
